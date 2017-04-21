@@ -60,6 +60,7 @@
     "webpack-merge": "^4.1.0"
   },
   "scripts": {
+    "install": "npm install",
     "start": "npm run"
   },
   "author": "",

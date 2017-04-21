@@ -32,7 +32,7 @@ class Server {
 
         this.config();
 
-        this.databases();
+        // this.databases();
 
         this.passport();
 
