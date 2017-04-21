@@ -1,0 +1,2 @@
+nodemon --watch ./compiled ./compiled/server.js localhost 8080
+browser-sync start --proxy localhost:8080 --files "src/app/**/*.html, src/app/**/*.ts, src/app/**/*.css"
