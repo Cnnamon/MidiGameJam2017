@@ -1,0 +1,1 @@
+tsc && node compiled/server.js
