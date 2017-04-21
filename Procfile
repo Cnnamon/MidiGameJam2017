@@ -1,1 +1,1 @@
-web: tsc && node compiled/server.js
+web: node compiled/server.js
